@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PROJ/1.0.0": {
+        "dependencies": {
+          "EcoCore": "7.0.0.14052",
+          "MaterialSkin": "0.2.1"
+        },
+        "runtime": {
+          "PROJ.dll": {}
+        }
+      },
+      "EcoCore/7.0.0.14052": {
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {
+            "assemblyVersion": "7.0.0.14052",
+            "fileVersion": "7.0.0.14052"
+          },
+          "lib/net40/Eco.Interfaces.dll": {
+            "assemblyVersion": "7.0.0.14052",
+            "fileVersion": "7.0.0.14052"
+          },
+          "lib/net40/Eco.LinqExtender.dll": {
+            "assemblyVersion": "7.0.0.14052",
+            "fileVersion": "7.0.0.14052"
+          },
+          "lib/net40/MDriven.Net.Http.dll": {
+            "assemblyVersion": "7.0.0.14052",
+            "fileVersion": "7.0.0.14052"
+          }
+        }
+      },
+      "MaterialSkin/0.2.1": {
+        "runtime": {
+          "lib/MaterialSkin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcoCore/7.0.0.14052": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7RZ8IBVXNJwjeF87XwWTAx6/6Pv9ij/6akvDv635t22jkfXUmlhNPmZJ8TtJza5x+iAeuTjWUwXqfPgyMvyK4w==",
+      "path": "ecocore/7.0.0.14052",
+      "hashPath": "ecocore.7.0.0.14052.nupkg.sha512"
+    },
+    "MaterialSkin/0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/6AEh6qIeNKbxsha7IHBb5s50tyvB0iZuGQPB9mjyR+mRdfQ7vnKTklwI26Y/DbrymTcg+aBHSgCgAT7/qLIrQ==",
+      "path": "materialskin/0.2.1",
+      "hashPath": "materialskin.0.2.1.nupkg.sha512"
+    }
+  }
+}

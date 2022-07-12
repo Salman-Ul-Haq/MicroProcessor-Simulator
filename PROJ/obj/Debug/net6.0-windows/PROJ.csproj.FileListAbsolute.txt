@@ -1,0 +1,201 @@
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+C:\Users\salma\source\repos\PROJ\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+C:\Users\salma\source\repos\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+C:\Users\wwwsa\Downloads\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+C:\Users\salma\Desktop\ADV PROJ\PROJ\PROJ\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+C:\Users\salma\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+C:\Users\salma\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+C:\Users\salma\OneDrive\Desktop\PROJ\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+D:\PPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOOOOOJJJJJJJJJJJJJJJJJJJEEEEEEEEEEEEEECCCCCCCCCCCCCCTTTTTTTTTTTTTTTTTT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.addAssembleFile.resources
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.addAssembleFile.resources
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+D:\z\MICROPROCESSOR PROJECT\Microprocessor Project\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\PROJ.exe
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\PROJ.deps.json
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\PROJ.runtimeconfig.json
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\PROJ.dll
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\PROJ.pdb
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\Eco.Handles.dll
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\Eco.Interfaces.dll
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\Eco.LinqExtender.dll
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\MDriven.Net.Http.dll
+D:\z\MicroProcessor Simulator\PROJ\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.AssemblyReference.cache
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.addAssembleFile.resources
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.Form1.resources
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.Form2.resources
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.Properties.Resources.resources
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.GenerateResource.cache
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfoInputs.cache
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.AssemblyInfo.cs
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CoreCompileInputs.cache
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.csproj.CopyComplete
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.dll
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\refint\PROJ.dll
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.pdb
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\PROJ.genruntimeconfig.cache
+D:\z\MicroProcessor Simulator\PROJ\obj\Debug\net6.0-windows\ref\PROJ.dll
